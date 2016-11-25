@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_369f942a897ce35bec9df3dd360c95bc33f8d624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4a2f209db32c0eb338adb014dc21bf94d4e16da4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ebfbc2ff045a97ac6eb87e3a1b42b2a39527d33f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="086cd1e07f9962ee978c5dae13f2bbf1e6c86985">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_99861dfb608ca9437375f07e00734fac986594eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccddd9820980a7d24949aaf257e578a3c374155">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1f81ab8ff8e74573bdc54f972303167c5ac32755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_478e57f059eafb3009b9127b3790083b5bab9e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c7390fe4ba7b3a40010d77160f48f6b98bc28321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6ad21d1a1f86cd99be1dc6227a9ebfe18c8eed73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_31717b28879d17c06d3e91dcc02a367c5069ff1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e6756d5c4990c907ec35a9f2224333d75329ad20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2a722cb079e9c3b7316edd1d6dec80151576a77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_90e17dbeeaefce1228cc934e64b9e1f611bcde39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4fd3382c7efa9f2ab064bd6cf73319f564a4cc1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ead115d09c507b8bee2721cdf1194013735d51d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2a0a2ab3a6e44c947a68eb10404922cca589c6fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_19492708ebe818c08aa185680924d1fd1dc4e905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\libs\httpclient-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733db77aa8d9b2d68015189df76ab06304406e50">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5.2_ea587114deb31f295b1ce019ae8f6dcb3179921c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\libs\httpcore-4.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.4_f4d87dec527a01f725fd5ddadf369c9511fe50ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d79cbfefa79b0c674adf106db84220aea3ff3dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mamshad\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_f6b3f0a3136a7555480b6f37c3e8c58120698529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_4925ebbfed30365d3d47c48b77d89198b4725cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_workspace\MovieTune\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\android_workspace\MovieTune\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_019c42c28cce110897dab2f8d4a98d58f35e85c6\classes.dex" />
+    </item>
+
+</items>

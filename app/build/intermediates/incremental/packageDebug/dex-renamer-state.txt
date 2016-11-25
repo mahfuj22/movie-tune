@@ -1,0 +1,7 @@
+#Fri Nov 25 22:32:27 ALMT 2016
+base.0=D\:\\android_workspace\\MovieTune\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_99861dfb608ca9437375f07e00734fac986594eb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android_workspace\\MovieTune\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1f81ab8ff8e74573bdc54f972303167c5ac32755\\classes.dex
+base.1=D\:\\android_workspace\\MovieTune\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1f81ab8ff8e74573bdc54f972303167c5ac32755
+file.0=D\:\\android_workspace\\MovieTune\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_99861dfb608ca9437375f07e00734fac986594eb\\classes.dex
